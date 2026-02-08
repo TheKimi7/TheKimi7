@@ -61,17 +61,6 @@ I am a Cybersecurity Consultant. I am an active Android Applications Pentester a
   <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> -->
   <!-- <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" height="25" /> -->
   <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" height="25"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="25"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="25"/>
-  ![Burp Suite](https://img.shields.io)
-  <!-- <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <!-- <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/> -->
   <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
@@ -79,15 +68,11 @@ I am a Cybersecurity Consultant. I am an active Android Applications Pentester a
 </p>
 
 <br/>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/praneeth" ><img width="200px" src="https://raw.githubusercontent.com/TheKimi7/TheKimi7/master/assets/BMC.svg" alt="praneeth | bmc"/><a>
-</p>
-
 <h2><b>⚡ Github Stats</b></h2>
-<p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheKimi7&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKimi7&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
-</p>
+<!-- <p align="center"> -->
+    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheKimi7&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/> -->
+    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKimi7&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" /> -->
+<!-- </p> -->
 
 <p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheKimi7&theme=tokyonight_duo&hide_border=false" alt="TheKimi7's readme streaks" />
@@ -100,15 +85,15 @@ I am a Cybersecurity Consultant. I am an active Android Applications Pentester a
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href="#" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a>
+    <!-- <a href="#" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a> -->
     &nbsp;
-    <a href="https://www.linkedin.com/in/TheKimi7/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
+    <!-- <a href="https://www.linkedin.com/in/pranav-rajendran/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a> -->
     &nbsp;
-    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
+    <a href="mailto:thekimi7.dev@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
     &nbsp;
-    <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4267b2" alt="Facebook logo" title="Facebook" height="25" /><a>
+    <!-- <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4267b2" alt="Facebook logo" title="Facebook" height="25" /><a> -->
     &nbsp;
-    <a href="https://instagram.com/praneeth__rdy" ><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
+    <a href="https://instagram.com/thekimi.7" ><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
     &nbsp;
     <!-- <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/TheKimi7/TheKimi7/master/assets/medium-new.png"/></a> -->
   </p>
