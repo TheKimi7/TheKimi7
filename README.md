@@ -20,7 +20,7 @@ I am a Cybersecurity Consultant. I am an active Android Applications Pentester a
 
 <h2><b>💻 Tools and OS</b></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/BurpSuite-0078D6?style=for-the-badge&logo=burpsuite&logoColor=white)" height="25"/>
+  <img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=Black)" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="25"/>
