@@ -1,17 +1,17 @@
 ## Hi there 👋, I'm Kimi.
 ### I am a passionate Cybersecurity Professional, Open-Source contributor and an AI enthusiast.
-![cover photo](https://raw.githubusercontent.com/TheKimi7/TheKimi7/master/assets/cover.jpg)
+<!-- ![cover photo](https://raw.githubusercontent.com/TheKimi7/TheKimi7/master/assets/cover.jpg) -->
 
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TheKimi7.TheKimi7)
     <a href="https://github.com/TheKimi7/"><img src="https://img.shields.io/github/followers/TheKimi7?style=social"/></a>
     <a href="https://github.com/TheKimi7?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
+    <img src="https://img.shields.io/badge/AthenaOS-72b5ff?style=for-the-badge&logo=data:image/png;base64,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&logoColor=Black)" height="25"/>
     <a href="https://TheKimi7.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2FTheKimi7.github.io%2F"/></a>
 </p>
 
-I am a Cybersecurity Consultant. I am an active Android Applications Pentester and a Security Researcher. I love contributing to open source projects, and have a degree in Data Science.
+I currently work as a Cybersecurity Consultant. I am an active Android Applications Pentester and a Security Researcher. I love contributing to open source projects, and have a degree in Data Science.
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, finance and entrepreneurship.
