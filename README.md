@@ -17,18 +17,6 @@ I'd rather build a tool than wait for one. When Android 14 broke certificate inj
 
 <br>
 
-## Writing
-
-Notes from real assessments, written for whoever is setting up the same thing next.
-
-- [Rooting an Android Phone with Magisk](https://pranavrajendran.com/blog/rooting-an-android-phone-with-magisk) <sub>Sep 2026</sub>
-- [Building strixctl: Armoury Crate for Linux... (sort of)](https://pranavrajendran.com/blog/building-strixctl) <sub>Sep 2026</sub>
-- [Getting Started with Mobile VAPT: iOS Setup Guide](https://pranavrajendran.com/blog/getting-started-with-ios-vapt) <sub>Sep 2025</sub>
-- [What Are Split APKs and How to Work with Them](https://pranavrajendran.com/blog/what-are-split-apks) <sub>Aug 2025</sub>
-- [Getting Started with Mobile VAPT: Android Setup Guide](https://pranavrajendran.com/blog/getting-started-with-android-vapt) <sub>Jul 2025</sub>
-
-<br>
-
 ## Toolbox
 
 | | |
