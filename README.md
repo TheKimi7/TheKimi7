@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://pranavrajendran.com">
-    <img src="assets/banner.png" alt="Pranav Rajendran, product and application security engineer. Android, iOS, web and LLM systems." width="100%">
-  </a>
-</p>
-
 <br>
 
 I'm a product and application security engineer, mostly mobile and AI. 100+ assessments across Android, iOS, web and LLM systems for banks, fintechs and enterprises, tested against OWASP and CIS. Mobile is where I'm deepest. I also do physical red teaming and social engineering.
@@ -50,7 +44,3 @@ Notes from real assessments, written for whoever is setting up the same thing ne
 Certified: **CEH v13**, EC-Council, 2026.
 
 <br>
-
-<p align="center">
-  <sub>Outside of security, I'm a <a href="https://music.pranavrajendran.com">professional musician</a>.</sub>
-</p>
